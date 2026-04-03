@@ -1,3 +1,7 @@
+##  Preview
+
+![App Screenshot](./screenshot.png)
+
 #  Multiplication Table Generator
 
 A simple and responsive web application that generates multiplication tables based on user input.
@@ -15,10 +19,6 @@ A simple and responsive web application that generates multiplication tables bas
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
-
-##  Preview
-
-![App Screenshot](./screenshot.png)
 
 ##  How It Works
 
