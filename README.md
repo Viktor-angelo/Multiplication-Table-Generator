@@ -1,6 +1,10 @@
-##  Preview
+<p align="center">
+  <img src="./IMG/preview-table2.png" width="600"/>
+</p>
 
-![App Screenshot](./screenshot.png)
+<p align="center">
+  <img src="./IMG/preview-table.png" width="250"/>
+</p>
 
 #  Multiplication Table Generator
 
